@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Atelier Lakeside Light"
     property string base00: "#ebf8ff"
     property string base01: "#c1e4f6"
     property string base02: "#7ea2b4"

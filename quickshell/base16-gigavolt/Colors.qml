@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Gigavolt"
     property string base00: "#202126"
     property string base01: "#2d303d"
     property string base02: "#5a576e"

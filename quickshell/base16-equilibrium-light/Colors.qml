@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Equilibrium Light"
     property string base00: "#f5f0e7"
     property string base01: "#e7e2d9"
     property string base02: "#d8d4cb"

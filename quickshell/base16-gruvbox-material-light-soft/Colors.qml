@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Gruvbox Material Light, Soft"
     property string base00: "#f2e5bc"
     property string base01: "#ebdbb2"
     property string base02: "#c9b99a"

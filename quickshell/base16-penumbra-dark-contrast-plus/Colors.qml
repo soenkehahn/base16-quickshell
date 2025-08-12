@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Penumbra Dark Contrast Plus"
     property string base00: "#181b1f"
     property string base01: "#24272b"
     property string base02: "#3e4044"

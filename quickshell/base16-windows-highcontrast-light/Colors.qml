@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Windows High Contrast Light"
     property string base00: "#fcfcfc"
     property string base01: "#e8e8e8"
     property string base02: "#d4d4d4"

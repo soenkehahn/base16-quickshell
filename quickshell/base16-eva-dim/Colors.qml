@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Eva Dim"
     property string base00: "#2a3b4d"
     property string base01: "#3d566f"
     property string base02: "#4b6988"

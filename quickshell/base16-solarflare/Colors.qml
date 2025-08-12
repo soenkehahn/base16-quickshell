@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Solar Flare"
     property string base00: "#18262f"
     property string base01: "#222e38"
     property string base02: "#586875"

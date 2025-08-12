@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Green Screen"
     property string base00: "#001100"
     property string base01: "#003300"
     property string base02: "#005500"

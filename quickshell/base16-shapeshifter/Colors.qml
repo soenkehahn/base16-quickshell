@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Shapeshifter"
     property string base00: "#f9f9f9"
     property string base01: "#e0e0e0"
     property string base02: "#ababab"

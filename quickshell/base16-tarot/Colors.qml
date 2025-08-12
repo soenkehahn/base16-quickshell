@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "tarot"
     property string base00: "#0e091d"
     property string base01: "#2a153c"
     property string base02: "#4b2054"

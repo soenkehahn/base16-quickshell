@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Railscasts"
     property string base00: "#2b2b2b"
     property string base01: "#272935"
     property string base02: "#3a4055"

@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Windows 10"
     property string base00: "#0c0c0c"
     property string base01: "#2f2f2f"
     property string base02: "#535353"

@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Synth Midnight Terminal Light"
     property string base00: "#dddfe0"
     property string base01: "#cfd1d2"
     property string base02: "#c1c3c4"

@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Seti UI"
     property string base00: "#151718"
     property string base01: "#282a2b"
     property string base02: "#3b758c"

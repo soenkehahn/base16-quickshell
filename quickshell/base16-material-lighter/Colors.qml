@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Material Lighter"
     property string base00: "#fafafa"
     property string base01: "#e7eaec"
     property string base02: "#cceae7"

@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Linux VT"
     property string base00: "#000000"
     property string base01: "#333333"
     property string base02: "#444444"

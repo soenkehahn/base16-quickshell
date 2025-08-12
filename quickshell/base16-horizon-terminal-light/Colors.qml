@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Horizon Terminal Light"
     property string base00: "#fdf0ed"
     property string base01: "#fadad1"
     property string base02: "#f9cbbe"

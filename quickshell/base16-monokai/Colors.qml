@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Monokai"
     property string base00: "#272822"
     property string base01: "#383830"
     property string base02: "#49483e"

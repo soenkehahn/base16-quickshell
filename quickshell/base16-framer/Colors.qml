@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Framer"
     property string base00: "#181818"
     property string base01: "#151515"
     property string base02: "#464646"

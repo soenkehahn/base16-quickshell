@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "XCode Dusk"
     property string base00: "#282b35"
     property string base01: "#3d4048"
     property string base02: "#53555d"

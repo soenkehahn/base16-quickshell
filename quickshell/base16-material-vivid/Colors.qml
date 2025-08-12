@@ -7,6 +7,7 @@ import Quickshell
 import Quickshell.Io
 
 Singleton {
+    property string schemeName: "Material Vivid"
     property string base00: "#202124"
     property string base01: "#27292c"
     property string base02: "#323639"
