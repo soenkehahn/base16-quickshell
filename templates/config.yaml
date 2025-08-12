@@ -1,0 +1,3 @@
+default:
+  supported-systems: [base16]
+  filename: "quickshell/{{ scheme-system }}-{{ scheme-slug }}/Colors.qml"
