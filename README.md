@@ -1,6 +1,7 @@
 # base16-quickshell
 
-[base16](https://github.com/tinted-theming) template for [quickshell](https://quickshell.org/).
+[base16](https://github.com/tinted-theming/home#readme) template for
+[quickshell](https://quickshell.org/).
 
 You can copy the `Colors.qml` file into e.g. `~/.config/quickshell/lib/` and
 then import it with `import qs.lib`.
